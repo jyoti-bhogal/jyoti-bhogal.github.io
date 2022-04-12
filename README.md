@@ -2,4 +2,7 @@
 
 Hello World,
 
-Welcome to my wesite.
+Welcome to my wesite. 
+
+About me:
+I am Jyoti Bhogal.
